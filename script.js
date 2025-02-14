@@ -1,1 +1,1 @@
-console.log("Изменения в master");
+console.log("Изменения в conflict-branch");
