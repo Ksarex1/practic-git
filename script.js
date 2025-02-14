@@ -1,1 +1,1 @@
-console.log("Изменения в conflict-branch");
+console.log("Второй коммит");
